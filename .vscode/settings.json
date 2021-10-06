@@ -4,9 +4,6 @@
     ],
     "cucumberautocomplete.strictGherkinCompletion": true,
     "files.autoSave": "afterDelay",
-    "yaml.schemas": {
-        "file:///c%3A/Users/bivek.pandey/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-    },
     "redhat.telemetry.enabled": true,
     "[typescript]": {
         "editor.defaultFormatter": "mblode.pretty-formatter"
